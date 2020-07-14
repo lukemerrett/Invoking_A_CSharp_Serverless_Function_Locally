@@ -1,4 +1,4 @@
-# InvokingAServerlessFunctionLocally
+# Invoking A C# Serverless Function Locally
 
 Sample repository showing how to invoke a Serverless function locally
 
