@@ -12,8 +12,9 @@ Sample repository showing how to invoke a Serverless function locally
 
 ## How This Repository Was Bootstrapped
 
-1. Setup Serverless as a global package - `npm update -g serverless`
-2. Created a template C# application - `serverless create --template aws-csharp`
+Created a template C# application - `serverless create --template aws-csharp`
+
+Everything is as the template generated, with the exception of the request object the handler expects, which I simplified slightly
 
 ## Running the Function Locally
 
